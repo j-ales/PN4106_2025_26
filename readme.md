@@ -4,10 +4,10 @@ This repository contain the resources for the PN4106 module running Fall 2025 at
 
 Use the following URL or the button below to launch this in a cloud hosted jupyter notebook. 
 
-https://mybinder.org/v2/gh/j-ales/PS4106_2025_26/main
+https://mybinder.org/v2/gh/j-ales/PN4106_2025_26/main
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/j-ales/PS4106_2025_26/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/j-ales/PN4106_2025_26/main)
 
 # Resources
 Helpful Resources for PN4106 Students
